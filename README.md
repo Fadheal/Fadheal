@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on [IKAN Comunity](Coming Soon)
 
-- 👨‍💻 All of my projects are available at [https://twoxnite-portfolio-git-main-fadheals-projects.vercel.app/](https://twoxnite-portfolio-git-main-fadheals-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://twoxnite.pro/](twoxnite.pro)
 
-- 📝 I regularly write articles on [https://twoxnite-portfolio-git-main-fadheals-projects.vercel.app/](https://twoxnite-portfolio-git-main-fadheals-projects.vercel.app/)
+- 📝 I regularly write articles on [https://twoxnite.pro/](twoxnite.pro)
 
 - 💬 Ask me about **NextJs**
 
 - 📫 How to reach me **fadheeal@gmail.com**
 
-- 📄 Know about my experiences [https://twoxnite-portfolio-git-main-fadheals-projects.vercel.app/](https://twoxnite-portfolio-git-main-fadheals-projects.vercel.app/)
+- 📄 Know about my experiences [https://twoxnite.pro/](twoxnite.pro)
 
 - ⚡ Fun fact **I think I can do it**
 
