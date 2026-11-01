@@ -11,9 +11,9 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 I'm currently studying **`Software Engineering`**
-- 🌱 I'm currently learning **`DevOps`**
-- 👯 I'm looking to collaborate on **`LMS Project`**
-- 💬 Ask me about **`Home Labing & Home Server`**
+- 🌱 I'm currently learning **`Machine Learning`**
+- 👯 I'm looking to collaborate on **`Web Development & Machine Learning Project`**
+- 💬 Ask me about **`Home Labing & React Development`**
 - ⚡ Fun fact: **`I love Home Labing`**
 
 ---
